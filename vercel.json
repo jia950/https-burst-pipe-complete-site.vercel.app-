@@ -1,0 +1,71 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/repair-or-replace-old-pipes.html",
+      "destination": "/blog/repair-or-replace-old-pipes.html",
+      "permanent": true
+    },
+    {
+      "source": "/signs-of-a-slab-leak.html",
+      "destination": "/blog/signs-of-a-slab-leak.html",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-find-main-water-shutoff.html",
+      "destination": "/blog/how-to-find-main-water-shutoff.html",
+      "permanent": true
+    },
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/home",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/areas/long-grove-il.html",
+      "destination": "/areas/long-grove-il",
+      "permanent": true
+    },
+    {
+      "source": "/areas/buffalo-grove-il.html",
+      "destination": "/areas/buffalo-grove-il",
+      "permanent": true
+    },
+    {
+      "source": "/services/slab-leak-repair.html",
+      "destination": "/services/slab-leak-repair",
+      "permanent": true
+    },
+    {
+      "source": "/services/emergency-plumbing.html",
+      "destination": "/services/emergency-plumbing",
+      "permanent": true
+    },
+    {
+      "source": "/blog/signs-of-a-slab-leak.html",
+      "destination": "/blog/signs-of-a-slab-leak",
+      "permanent": true
+    }
+  ]
+}

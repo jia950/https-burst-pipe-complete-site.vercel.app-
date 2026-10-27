@@ -1,0 +1,5 @@
+Image quality update
+- Existing site pages, copy, links, and SEO files were preserved.
+- Existing hero, service, blog, and suburb image assets were carefully upscaled where needed, lightly sharpened, and re-encoded as high-quality WebP.
+- Article images remain matched to their subject (frozen pipes, shutoff valves, slab leaks, pipe bursts, water damage, etc.).
+- Suburb house photos are illustrative residential imagery, not documentary photos of specific addresses or official town landmarks.

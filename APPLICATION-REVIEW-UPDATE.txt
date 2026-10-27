@@ -1,0 +1,14 @@
+APPLICATION REVIEW UPDATE
+
+This package was updated against the application-review email.
+
+- Removed promotional language about provider licensing/insurance from page copy.
+- Removed outcome/availability guarantee wording from page copy.
+- No advertised dollar pricing or pricing ranges are present in HTML pages.
+- No customer testimonials, star ratings, review counts, or review sections are present.
+- The specific phone number cited in the email is not present; no business/tracking number is displayed in this package.
+- Checked all 31 HTML pages and their relative links and local image references.
+
+Before requesting another review, deploy this updated package to the website URL being submitted. The review email references water-damage-restoration-pro.vercel.app; that URL will not change simply by editing this ZIP. If you submit this Burst Pipe Repair site instead, use its deployed public URL in the application. Add a tracking number only after it is assigned.
+
+This file is a project note, not website copy.

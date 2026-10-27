@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title>Water Damage Cleanup</title><desc>Illustration of moisture in a home and a water droplet.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a2b4d"/><stop offset="1" stop-color="#174f7b"/></linearGradient>
+ <linearGradient id="copper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffd19b"/><stop offset=".28" stop-color="#c9783e"/><stop offset=".58" stop-color="#f2a66a"/><stop offset="1" stop-color="#86431f"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7fbff"/><stop offset=".45" stop-color="#93afc6"/><stop offset="1" stop-color="#e6f1fa"/></linearGradient>
+ <linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#99e4ff"/><stop offset="1" stop-color="#168bd4"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#ff8a31" stop-opacity=".35"/><stop offset="1" stop-color="#ff8a31" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#00172a" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1200" height="760" rx="38" fill="url(#bg)"/><circle cx="1000" cy="115" r="250" fill="url(#glow)"/><circle cx="175" cy="650" r="245" fill="#0b2440" opacity=".48"/>
+<g filter="url(#shadow)"><path d="M170 360L400 175 630 360V585H170Z" fill="#edf6fc"/><path d="M125 365L400 140 675 365L640 395 400 200 160 395Z" fill="#ff8a31"/><rect x="230" y="390" width="110" height="195" fill="#94b3c9"/><rect x="410" y="390" width="140" height="95" rx="7" fill="#80caf2"/><path d="M200 600H700" stroke="#88a1b6" stroke-width="22"/><path d="M820 220C755 312 755 375 820 396C887 375 886 312 820 220Z" fill="url(#water)" stroke="#c4f1ff" stroke-width="8"/><path d="M905 400C870 450 875 483 905 493C937 483 939 450 905 400Z" fill="#6acbfa"/><path d="M770 500l-30 30m100 7l-18 31m135-62l-26 30" stroke="#aee9ff" stroke-width="10" stroke-linecap="round"/><rect x="750" y="555" width="340" height="72" rx="18" fill="#f0f8ff" stroke="#8caac0" stroke-width="7"/><path d="M800 591h238" stroke="#8caac0" stroke-width="10" stroke-linecap="round"/></g>
+<g opacity=".14" stroke="#d8ebfb" stroke-width="2"><path d="M65 100H300M65 125H220M900 620H1120M945 645H1120"/></g>
+</svg>
