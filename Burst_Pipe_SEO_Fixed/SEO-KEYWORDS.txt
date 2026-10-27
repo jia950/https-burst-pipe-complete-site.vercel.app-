@@ -1,0 +1,36 @@
+BURST PIPE REPAIR WEBSITE — KEYWORD MAP
+
+Use one primary keyword per page and related phrases naturally in body copy. Do not repeat exact-match keywords unnaturally.
+
+Homepage
+- Primary: burst pipe repair Buffalo Grove IL
+- Supporting: emergency pipe leak guidance, frozen pipe, local plumbing help
+
+Service pages
+- Burst Pipe Repair: burst pipe repair Buffalo Grove IL
+- Frozen Pipe Repair: frozen pipe repair Buffalo Grove IL
+- Pipe Leak Repair: pipe leak repair Buffalo Grove IL
+- Slab Leak Repair: slab leak repair Buffalo Grove IL
+- Emergency Plumbing: emergency plumbing help Buffalo Grove IL
+- Pipe Replacement: pipe repair and replacement Buffalo Grove IL
+- Water Shutoff: main water shutoff valve help
+- Water Damage: what to do after a plumbing leak
+
+Service-area pages
+- Pipe repair + the specific city name + IL (one page per city)
+- Supporting: burst pipe, frozen pipe, leak warning signs, independent local provider questions
+
+Blog posts
+- What to do when a pipe bursts at home
+- Common signs of a possible slab leak
+- How to find your main water shutoff valve
+- How to help prevent frozen pipes in winter
+- Small pipe leak warning signs
+- What to do after a plumbing leak is stopped
+- Repair or replace old pipes
+- Questions to ask before hiring a plumber
+
+SEO notes
+- Every page has a unique title and meta description, a single primary H1, local internal links, descriptive image alt text, and images with explicit dimensions.
+- No business phone number, customer-rating block, or arrival-time promise is displayed. Add verified contact details only after approval.
+- Update sitemap-template.xml with the real HTTPS domain after deployment; the local preview URL is not a public canonical URL.

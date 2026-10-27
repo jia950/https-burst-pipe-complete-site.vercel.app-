@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title>Emergency Plumbing Help</title><desc>Illustration of an emergency badge, a pipe, and a wrench.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a2b4d"/><stop offset="1" stop-color="#174f7b"/></linearGradient>
+ <linearGradient id="copper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffd19b"/><stop offset=".28" stop-color="#c9783e"/><stop offset=".58" stop-color="#f2a66a"/><stop offset="1" stop-color="#86431f"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7fbff"/><stop offset=".45" stop-color="#93afc6"/><stop offset="1" stop-color="#e6f1fa"/></linearGradient>
+ <linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#99e4ff"/><stop offset="1" stop-color="#168bd4"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#ff8a31" stop-opacity=".35"/><stop offset="1" stop-color="#ff8a31" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#00172a" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1200" height="760" rx="38" fill="url(#bg)"/><circle cx="1000" cy="115" r="250" fill="url(#glow)"/><circle cx="175" cy="650" r="245" fill="#0b2440" opacity=".48"/>
+<g filter="url(#shadow)"><circle cx="600" cy="375" r="235" fill="#102f50" stroke="#6389a8" stroke-width="9"/><circle cx="600" cy="375" r="190" fill="none" stroke="#ff8a31" stroke-width="14" stroke-dasharray="760 120"/><path d="M600 215V350M600 400V515M440 375H560M640 375H760" stroke="#a7c9e2" stroke-width="29" stroke-linecap="round"/><circle cx="600" cy="375" r="56" fill="#ff8a31"/><path d="M820 180l65-65 55 55-65 65M880 170l-132 132" fill="none" stroke="url(#silver)" stroke-width="28" stroke-linecap="round"/><path d="M280 545l70-65 60 60-65 70M320 515l110-110" fill="none" stroke="#ffb36e" stroke-width="24" stroke-linecap="round"/></g><circle cx="950" cy="170" r="66" fill="#ff7a18"/><path d="M950 128v44l32 20" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+<g opacity=".14" stroke="#d8ebfb" stroke-width="2"><path d="M65 100H300M65 125H220M900 620H1120M945 645H1120"/></g>
+</svg>

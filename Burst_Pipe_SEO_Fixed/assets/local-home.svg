@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title>Local Service Area</title><desc>Illustration of a suburban home and local service location.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a2b4d"/><stop offset="1" stop-color="#174f7b"/></linearGradient>
+ <linearGradient id="copper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffd19b"/><stop offset=".28" stop-color="#c9783e"/><stop offset=".58" stop-color="#f2a66a"/><stop offset="1" stop-color="#86431f"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7fbff"/><stop offset=".45" stop-color="#93afc6"/><stop offset="1" stop-color="#e6f1fa"/></linearGradient>
+ <linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#99e4ff"/><stop offset="1" stop-color="#168bd4"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#ff8a31" stop-opacity=".35"/><stop offset="1" stop-color="#ff8a31" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#00172a" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1200" height="760" rx="38" fill="url(#bg)"/><circle cx="1000" cy="115" r="250" fill="url(#glow)"/><circle cx="175" cy="650" r="245" fill="#0b2440" opacity=".48"/>
+<g filter="url(#shadow)"><path d="M205 360L460 155 715 360V610H205Z" fill="#f1f7fb"/><path d="M150 365L460 115 770 365L730 402 460 185 190 402Z" fill="#ff8a31"/><rect x="270" y="380" width="110" height="230" fill="#91aec4"/><rect x="445" y="395" width="130" height="95" rx="6" fill="#85cef3"/><rect x="490" y="510" width="95" height="100" fill="#7894aa"/><path d="M110 620H805" stroke="#9cb7ca" stroke-width="18" stroke-linecap="round"/><path d="M910 185C825 185 770 250 770 325C770 420 910 520 910 520S1050 420 1050 325C1050 250 995 185 910 185Z" fill="#ff7718"/><circle cx="910" cy="318" r="62" fill="#fff4e9"/><path d="M876 318l24 25 46-52" fill="none" stroke="#0b4679" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g opacity=".14" stroke="#d8ebfb" stroke-width="2"><path d="M65 100H300M65 125H220M900 620H1120M945 645H1120"/></g>
+</svg>

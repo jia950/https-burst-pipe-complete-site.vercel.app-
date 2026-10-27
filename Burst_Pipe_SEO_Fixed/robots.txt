@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.burstpiperepairbuffalogrove.com/sitemap.xml
+Sitemap: https://burstpiperepairbuffalogrove.com/sitemap.xml
+
+# Fix indexing issues
+Disallow: /api/
+Disallow: /_next/

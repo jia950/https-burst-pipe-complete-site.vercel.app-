@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title>Main Water Shutoff Help</title><desc>Illustration of a main water valve and droplets.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a2b4d"/><stop offset="1" stop-color="#174f7b"/></linearGradient>
+ <linearGradient id="copper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffd19b"/><stop offset=".28" stop-color="#c9783e"/><stop offset=".58" stop-color="#f2a66a"/><stop offset="1" stop-color="#86431f"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7fbff"/><stop offset=".45" stop-color="#93afc6"/><stop offset="1" stop-color="#e6f1fa"/></linearGradient>
+ <linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#99e4ff"/><stop offset="1" stop-color="#168bd4"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#ff8a31" stop-opacity=".35"/><stop offset="1" stop-color="#ff8a31" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#00172a" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1200" height="760" rx="38" fill="url(#bg)"/><circle cx="1000" cy="115" r="250" fill="url(#glow)"/><circle cx="175" cy="650" r="245" fill="#0b2440" opacity=".48"/>
+<g filter="url(#shadow)"><path d="M140 450H435Q480 450 480 405V330Q480 285 525 285H1060" fill="none" stroke="url(#copper)" stroke-width="76" stroke-linecap="round"/><rect x="420" y="330" width="130" height="140" rx="18" fill="url(#silver)" stroke="#5d7890" stroke-width="8"/><circle cx="485" cy="320" r="78" fill="#ff8a31" stroke="#ffd2a7" stroke-width="10"/><circle cx="485" cy="320" r="22" fill="#0b2b4d"/><path d="M485 242V398M407 320H563" stroke="#fff2e7" stroke-width="17" stroke-linecap="round"/><path d="M750 435C700 500 708 548 750 562C792 548 800 500 750 435Z" fill="url(#water)"/><path d="M910 490C878 532 886 564 910 572C938 563 941 532 910 490Z" fill="#7bd6ff"/></g>
+<g opacity=".14" stroke="#d8ebfb" stroke-width="2"><path d="M65 100H300M65 125H220M900 620H1120M945 645H1120"/></g>
+</svg>
